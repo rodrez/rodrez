@@ -7,7 +7,7 @@ I am an undergraduate student pursuing a Software Engineering degree. I am const
 I am currently looking for internships, voluntary work or anything that would help me achieve more experience.
 
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1Rgy-jxUbHFWUUW9Z5ntMvxX60GELWgnX/view)*
-&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/rodrez/rodrez/tree/master/Certificates)*
+&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/rodrez/rodrez/tree/master/certificates)*
 <br />
 
 
