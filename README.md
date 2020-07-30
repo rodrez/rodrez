@@ -2,28 +2,15 @@
 *fabian.rodrez@gmail.com \| fabian.rodriguez@snhu.edu*
 <img align="right" width="200" height="161" src="">
 
-I am an undergraduate student pursuing a Software Engineering degree. Always willing to learn and implement. Proficient in Code Development. Able to debug. Have an experience in the fields of Web Development, Android Development and Database Handling. Also, interested in the field of Data Science. <br /><br />
-🤔 Looking for a job which would help me make most of my skills.
+I am an undergraduate student pursuing a Software Engineering degree. I am constantly trying to learn more about coding and I am currently focusing on Python. I have work with Web Development, Data Science, Scraping, and Automation. I consider myself a fast learner and I always enjoy a good challenge. Learning for me is relaxing and doing less that 120% is not my style.
+<br /><br />
+I am currently looking for internships, voluntary work or anything that would help me achieve more experience.
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1i0rCJGIGzRTcf-Hq2k3_LZdGQvvdsu03/view)*
+&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1Rgy-jxUbHFWUUW9Z5ntMvxX60GELWgnX/view)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/rkasale28/rkasale28/tree/master/Certificates)*
 <br />
 
-### Stats
-<table>
-  <tr>
-    <td> :three: Internships Completed </td>
-    <td> :six: Projects Completed </td>
-    <td>  :four: Guided Projects  </td>
-    <td>  :two: Virtual Internships </td>
-  </tr>
-  <tr>
-    <td>  :eight: Golden Badges  </td>
-    <td>  :one::zero: Skills Verified </td>
-    <td>  :seven: Online Courses  </td>
-    <td>  :two::six: Github Repos </td>
-  </tr>
-</table>
+
 
 ### Technical Skills
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
@@ -36,10 +23,9 @@ I am an undergraduate student pursuing a Software Engineering degree. Always wil
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
 ### Contact Me
-|  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
+|  <a href="https://github.com/rkasale28"><img src="http://canadianmusicgrants.ca/wp-content/uploads/2018/08/Music-Grant-Writing-Services-Canada-Contact-Me-768x338.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|📞 *96645 94525*|
-|✉️ *rohit.kasale@somaiya.edu \| rohitkasale28@gmail.com*|
-|<a href="https://www.rohitkasale.tech/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-website-96.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/rohit-kasale/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/rkasale28"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/rohit_kasale?hr_r=1"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
+|📞 *717-599-2268*|
+|✉️ *fabian.rodriguez@snhu.edu \| fabian.rodrez@gmail.com*|
+|<a href="https://www.rodrez.com/"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=django&logoColor=white&color=4d008f" ></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/f-rodrez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp; &nbsp; <a href="https://github.com/rodrez"><img src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&color=black&logoColor=white"></a> &nbsp; &nbsp;|
 
-⭐️ From [rkasale28](https://github.com/rkasale28)
