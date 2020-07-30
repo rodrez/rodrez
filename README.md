@@ -22,10 +22,11 @@ I am currently looking for internships, voluntary work or anything that would he
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
+<p style="align:center">
 ### Contact Me
 |  <a href="https://github.com/rkasale28"><img src="http://canadianmusicgrants.ca/wp-content/uploads/2018/08/Music-Grant-Writing-Services-Canada-Contact-Me-768x338.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *717-599-2268*|
 |✉️ *fabian.rodriguez@snhu.edu \| fabian.rodrez@gmail.com*|
 |<a href="https://www.rodrez.com/"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=django&logoColor=white&color=4d008f" ></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/f-rodrez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp; &nbsp; <a href="https://github.com/rodrez"><img src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&color=black&logoColor=white"></a> &nbsp; &nbsp;|
-
+</p>
