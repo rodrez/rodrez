@@ -1,6 +1,6 @@
 ### Hi there. I am Fabian. 👋
 *fabian.rodrez@gmail.com \| fabian.rodriguez@snhu.edu*
-<img align="right" width="200" height="161" src="">
+<img align="right" width="200" height="161" src="https://drive.google.com/file/d/1upt-6zjaYLVp6CQUQP-hJZamSI-Xqa8V/view">
 
 I am an undergraduate student pursuing a Software Engineering degree. I am constantly trying to learn more about coding and I am currently focusing on Python. I have work with Web Development, Data Science, Scraping, and Automation. I consider myself a fast learner and I always enjoy a good challenge. Learning for me is relaxing and doing less that 120% is not my style.
 <br /><br />
