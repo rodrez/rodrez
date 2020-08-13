@@ -1,6 +1,6 @@
 ### Hi there. I am Fabian. 👋
 *fabian.rodrez@gmail.com \| fabian.rodriguez@snhu.edu*
-<img align="right" width="200" height="161" src="https://github.com/rodrez/rodrez/blob/master/Photo%20from%20Rodrz.jpg">
+
 
 I am an undergraduate student pursuing a Software Engineering degree. I am constantly trying to learn more about coding and I am currently focusing on Python. I have work with Web Development, Data Science, Scraping, and Automation. I consider myself a fast learner and I always enjoy a good challenge. Learning for me is relaxing and doing less that 120% is not my style.
 <br /><br />
@@ -21,7 +21,7 @@ I am currently looking for internships, voluntary work or anything that would he
 
 
 ### Contact Me
-|  <a href="https://github.com/rkasale28"><img src="http://canadianmusicgrants.ca/wp-content/uploads/2018/08/Music-Grant-Writing-Services-Canada-Contact-Me-768x338.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://github.com/rkasale28"></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *717-599-2268*|
 |✉️ *fabian.rodriguez@snhu.edu \| fabian.rodrez@gmail.com*|
