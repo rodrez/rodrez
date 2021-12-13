@@ -26,6 +26,6 @@ I am a self taught Full Stack Developer. I am constantly trying to learn more ab
 
 
 **Get in touch**
-- Twitter: 'https://twitter.com/rodrez_'
+- Twitter: [Rodrez]('https://twitter.com/rodrez_)
 - Blog: WIP
 
