@@ -28,6 +28,6 @@ I am an undergraduate student pursuing a Software Engineering degree. I am const
 |<a href="https://www.rodrez.com/"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=django&logoColor=white&color=4d008f" ></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/f-rodrez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp; &nbsp; <a href="https://github.com/rodrez"><img src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&color=black&logoColor=white"></a> &nbsp; &nbsp;|
 </p>
 
-![Rodrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrez&count_private=true)
+![Rodrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrez&count_private=true&theme=tokyonight)
 
 
