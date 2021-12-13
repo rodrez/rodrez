@@ -1,5 +1,5 @@
 
-![Rodrez's Hello]('https://github.com/rodrez/rodrez/GH Banner.png')
+<img align="center" src="https://github.com/rodrez/rodrez/blob/master/GH%20Banner.png" alt="Rodrez's github stats" /></a>
 
 **About Me:**  
 
