@@ -21,7 +21,7 @@ I'm a self taught Full Stack Developer. I am constantly trying to learn more abo
 
 
 
-| <a href="https://github.com/rodrez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrez&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Rodrez's github stats" /></a> | <a href="https://github.com/rodrez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrez&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/rodrez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrez&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rodrez's github stats" /></a> | <a href="https://github.com/rodrez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrez&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
