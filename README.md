@@ -3,7 +3,7 @@
 
 **About Me:**  
 
-I'm a self taught Full Stack Developer. I am constantly trying to learn more about programming. I have work with Web Development, Data Science, Scraping, and Automation. 
+I'm a self taught Software Engineer. I am constantly trying to learn more about programming. I have work with Web Development, Data Science, Scraping, and Automation. 
 <br /><br />
 
 **Languages and Tools:**  
