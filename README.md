@@ -27,5 +27,5 @@ I'm a self taught Software Engineer. I am constantly trying to learn more about 
 
 **Get in touch**
 - Twitter: <a href="https://twitter.com/rodrez_">@Rodrez</a>
-- Blog: WIP
+- Blog: <a href="https://www.rodrez.com/blog">Rodrez Blog</a>
 
