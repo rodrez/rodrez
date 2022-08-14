@@ -28,6 +28,6 @@ I'm a Software Engineer student and Business Intelligence Analyst. I am constant
 
 
 **Get in touch**
-- Twitter: <a href="https://twitter.com/rodrez_">@Rodrez</a>
+- Twitter: <a href="https://twitter.com/Rodrez_">@Rodrez</a>
 - Blog: <a href="https://www.rodrez.com/blog">Rodrez Blog</a>
 
