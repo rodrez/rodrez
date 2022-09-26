@@ -3,7 +3,7 @@
 
 **About Me:**  
 
-I'm a Software Engineer student and Business Intelligence Analyst. I am constantly trying to learn more about programming. I have work with Web Development, Data Science, Scraping, and Automation. 
+I'm a Software Engineer student and Business Intelligence Analyst. I am constantly trying to learn more about programming. I have worked with Web Development, Data Science, Scraping, and Automation. 
 <br /><br />
 
 **Languages and Tools:**  
