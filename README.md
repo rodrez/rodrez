@@ -3,7 +3,9 @@
 
 **About Me:**  
 
-If you're looking for a 10x dev who effortlessly writes flawless lines of code, you've come to the wrong place. Writes code on Nvim/tmux to pretend I'm cool...
+If you're looking for a 10x dev who effortlessly writes flawless lines of code, you've come to the wrong place. Writes code on Nvim/tmux to pretend I'm cool... Also, will dive on any project, not afraid of challenges, except
+maybe feeding new york strip steak to sharks the 4th of July at 11:31 pm, on a full moon...
+
 <br /><br />
 
 **Languages and Tools:**  
@@ -15,10 +17,8 @@ If you're looking for a 10x dev who effortlessly writes flawless lines of code, 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
 
 
