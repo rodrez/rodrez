@@ -3,7 +3,7 @@
 
 **About Me:**  
 
-I'm a Software Engineer student and Business Intelligence Analyst. I am constantly trying to learn more about programming. I have worked with Web Development, Data Science, Scraping, and Automation. 
+If you're looking for a 10x dev who effortlessly writes flawless lines of code, you've come to the wrong place. Writes code on Nvim/tmux to pretend I'm cool...
 <br /><br />
 
 **Languages and Tools:**  
